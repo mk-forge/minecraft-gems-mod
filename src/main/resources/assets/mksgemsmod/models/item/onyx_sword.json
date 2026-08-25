@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "mksgemsmod:items/onyx_sword"
+  }
+}
