@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mksgemsmod:jade_block"
+    }
+  ],
+  "result": {
+    "item": "mksgemsmod:jade",
+    "count": 9
+  }
+}

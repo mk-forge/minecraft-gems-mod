@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mksgemsmod:sapphire_block"
+    }
+  ],
+  "result": {
+    "item": "mksgemsmod:sapphire",
+    "count": 9
+  }
+}

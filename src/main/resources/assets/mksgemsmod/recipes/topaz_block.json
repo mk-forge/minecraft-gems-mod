@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "GGG",
+    "GGG"
+  ],
+  "key": {
+    "G": {
+      "item": "mksgemsmod:topaz"
+    }
+  },
+  "result": {
+    "item": "mksgemsmod:topaz_block"
+  }
+}

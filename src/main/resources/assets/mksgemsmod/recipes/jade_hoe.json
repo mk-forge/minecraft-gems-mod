@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GG",
+    " S",
+    " S"
+  ],
+  "key": {
+    "G": {
+      "item": "mksgemsmod:jade"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "mksgemsmod:jade_hoe"
+  }
+}
