@@ -8,9 +8,9 @@ Every gem comes with full world generation, crafting recipes, and both English a
 
 ## Tech stack
 
-Language: Java
-Platform: Minecraft Forge 1.12.2
-Build: Gradle
+- Language: Java
+- Platform: Minecraft Forge 1.12.2
+- Build: Gradle
 
 ## Building from source
 ```sh
@@ -27,10 +27,10 @@ The compiled `.jar` ends up in `build/libs/`.
 
 ## Screenshots
 
-![Ore generation](/screenshots/minecraft-gems-mod/ore_generation.png)
-![Creative tab](/screenshots/minecraft-gems-mod/creative_tab.png)
-![Crafting](/screenshots/minecraft-gems-mod/crafting.png)
-![Armor and tools](/screenshots/minecraft-gems-mod/armor_and_tools.png)
+![Ore generation](./Screenshots/ore_generation.png)
+![Creative tab](./Screenshots/creative_tab.png)
+![Crafting](./Screenshots/crafting.png)
+![Armor and tools](./Screenshots/armor_and_tools.png)
 
 ## Credits
 
