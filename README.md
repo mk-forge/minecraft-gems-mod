@@ -1,21 +1,37 @@
-## TemplateDevEnv
-_For Kotlin see [TemplateDevEnvKt](https://github.com/CleanroomMC/TemplateDevEnvKt)_
+# Minecraft Gems Mod
 
-Template workspace for modding Minecraft 1.12.2. Licensed under MIT, it is made for public use.
+Minecraft 1.12.2 mod that adds new ores, tools, and crafting recipes.
 
-This template runs on **Java 25**, **Gradle 9.7.0** + **[RetroFuturaGradle](https://github.com/GTNewHorizons/RetroFuturaGradle) 2.0.3** + **Forge 14.23.5.2847**.
+## Overview
 
-With **coremod and mixin support** that is easy to configure.
+Every gem comes with full world generation, crafting recipes, and both English and Czech localization. Tools and armor are slightly stronger than diamond, and ores spawn in the Overworld between Y levels 5 and 30, at a rarity comparable to diamond, three veins per chunk, four blocks per vein.
 
-### Instructions:
+## Tech stack
 
-1. Click `use this template` at the top.
-2. Clone the repository that you have created with this template to your local machine.
-3. Make sure IDEA is using Java 25 for Gradle before you sync the project. Verify this by going to IDEA's `Settings > Build, Execution, Deployment > Build Tools > Gradle > Gradle JVM`.
-4. Open the project folder in IDEA. When prompted, click "Load Gradle Project" as it detects the `build.gradle`, if you weren't prompted, right-click the project's `build.gradle` in IDEA, select `Link Gradle Project`, after completion, hit `Refresh All` in the gradle tab on the right.
-5. Run gradle tasks such as `runClient` and `runServer` in the IDEA gradle tab, or use the auto-imported run configurations like `1. Run Client`.
+Language: Java
+Platform: Minecraft Forge 1.12.2
+Build: Gradle
 
-### Notes:
-- Dependencies script in [gradle/scripts/dependencies.gradle](gradle/scripts/dependencies.gradle), explanations are commented in the file.
-- Publishing script in [gradle/scripts/publishing.gradle](gradle/scripts/publishing.gradle).
-- When writing Mixins on IntelliJ, it is advisable to use latest [MinecraftDev Fork for RetroFuturaGradle](https://github.com/eigenraven/MinecraftDev/releases).
+## Building from source
+```sh
+gradlew build
+```
+
+The compiled `.jar` ends up in `build/libs/`.
+
+## Installation
+
+1. Download the latest `.jar` from [Releases](https://github.com/mk-forge/minecraft-gems-mod/releases).
+2. Place it in your `.minecraft/mods/1.12.2/` folder.
+3. Launch Minecraft with the Forge 1.12.2 profile.
+
+## Screenshots
+
+![Ore generation](/screenshots/minecraft-gems-mod/ore_generation.png)
+![Creative tab](/screenshots/minecraft-gems-mod/creative_tab.png)
+![Crafting](/screenshots/minecraft-gems-mod/crafting.png)
+![Armor and tools](/screenshots/minecraft-gems-mod/armor_and_tools.png)
+
+## Credits
+
+Textures for gems, tools, and armor are based on assets from the [GemsPlusPlus](https://modrinth.com/mod/gemsplusplus) mod, licensed under [LGPL-3.0-only](https://www.gnu.org/licenses/lgpl-3.0.html).
