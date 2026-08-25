@@ -1,0 +1,69 @@
+item.ruby.name=Rubín
+item.onyx.name=Onyx
+item.topaz.name=Topaz
+item.sapphire.name=Safír
+item.jade.name=Jadeit
+
+item.ruby_sword.name=Rubínový meč
+item.ruby_pickaxe.name=Rubínový krumpáč
+item.ruby_axe.name=Rubínová sekera
+item.ruby_shovel.name=Rubínová lopata
+item.ruby_hoe.name=Rubínová motyka
+item.ruby_helmet.name=Rubínová helma
+item.ruby_chestplate.name=Rubínové brnění
+item.ruby_leggings.name=Rubínové kalhoty
+item.ruby_boots.name=Rubínové boty
+
+item.onyx_sword.name=Onyxový meč
+item.onyx_pickaxe.name=Onyxový krumpáč
+item.onyx_axe.name=Onyxová sekera
+item.onyx_shovel.name=Onyxová lopata
+item.onyx_hoe.name=Onyxová motyka
+item.onyx_helmet.name=Onyxová helma
+item.onyx_chestplate.name=Onyxové brnění
+item.onyx_leggings.name=Onyxové kalhoty
+item.onyx_boots.name=Onyxové boty
+
+item.topaz_sword.name=Topazový meč
+item.topaz_pickaxe.name=Topazový krumpáč
+item.topaz_axe.name=Topazová sekera
+item.topaz_shovel.name=Topazová lopata
+item.topaz_hoe.name=Topazová motyka
+item.topaz_helmet.name=Topazová helma
+item.topaz_chestplate.name=Topazové brnění
+item.topaz_leggings.name=Topazové kalhoty
+item.topaz_boots.name=Topazové boty
+
+item.sapphire_sword.name=Safírový meč
+item.sapphire_pickaxe.name=Safírový krumpáč
+item.sapphire_axe.name=Safírová sekera
+item.sapphire_shovel.name=Safírová lopata
+item.sapphire_hoe.name=Safírová motyka
+item.sapphire_helmet.name=Safírová helma
+item.sapphire_chestplate.name=Safírové brnění
+item.sapphire_leggings.name=Safírové kalhoty
+item.sapphire_boots.name=Safírové boty
+
+item.jade_sword.name=Jadeitový meč
+item.jade_pickaxe.name=Jadeitový krumpáč
+item.jade_axe.name=Jadeitová sekera
+item.jade_shovel.name=Jadeitová lopata
+item.jade_hoe.name=Jadeitová motyka
+item.jade_helmet.name=Jadeitová helma
+item.jade_chestplate.name=Jadeitové brnění
+item.jade_leggings.name=Jadeitové kalhoty
+item.jade_boots.name=Jadeitové boty
+
+tile.ruby_ore.name=Rubínová ruda
+tile.onyx_ore.name=Onyxová ruda
+tile.topaz_ore.name=Topazová ruda
+tile.sapphire_ore.name=Safírová ruda
+tile.jade_ore.name=Jadeitová ruda
+
+tile.ruby_block.name=Rubínový blok
+tile.onyx_block.name=Onyxový blok
+tile.topaz_block.name=Topazový blok
+tile.sapphire_block.name=Safírový blok
+tile.jade_block.name=Jadeitový blok
+
+itemGroup.gems_tab=Drahokamy od MK

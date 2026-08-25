@@ -1,0 +1,69 @@
+item.ruby.name=Ruby
+item.onyx.name=Onyx
+item.topaz.name=Topaz
+item.sapphire.name=Sapphire
+item.jade.name=Jade
+
+item.ruby_sword.name=Ruby Sword
+item.ruby_pickaxe.name=Ruby Pickaxe
+item.ruby_axe.name=Ruby Axe
+item.ruby_shovel.name=Ruby Shovel
+item.ruby_hoe.name=Ruby Hoe
+item.ruby_helmet.name=Ruby Helmet
+item.ruby_chestplate.name=Ruby Chestplate
+item.ruby_leggings.name=Ruby Leggings
+item.ruby_boots.name=Ruby Boots
+
+item.onyx_sword.name=Onyx Sword
+item.onyx_pickaxe.name=Onyx Pickaxe
+item.onyx_axe.name=Onyx Axe
+item.onyx_shovel.name=Onyx Shovel
+item.onyx_hoe.name=Onyx Hoe
+item.onyx_helmet.name=Onyx Helmet
+item.onyx_chestplate.name=Onyx Chestplate
+item.onyx_leggings.name=Onyx Leggings
+item.onyx_boots.name=Onyx Boots
+
+item.topaz_sword.name=Topaz Sword
+item.topaz_pickaxe.name=Topaz Pickaxe
+item.topaz_axe.name=Topaz Axe
+item.topaz_shovel.name=Topaz Shovel
+item.topaz_hoe.name=Topaz Hoe
+item.topaz_helmet.name=Topaz Helmet
+item.topaz_chestplate.name=Topaz Chestplate
+item.topaz_leggings.name=Topaz Leggings
+item.topaz_boots.name=Topaz Boots
+
+item.sapphire_sword.name=Sapphire Sword
+item.sapphire_pickaxe.name=Sapphire Pickaxe
+item.sapphire_axe.name=Sapphire Axe
+item.sapphire_shovel.name=Sapphire Shovel
+item.sapphire_hoe.name=Sapphire Hoe
+item.sapphire_helmet.name=Sapphire Helmet
+item.sapphire_chestplate.name=Sapphire Chestplate
+item.sapphire_leggings.name=Sapphire Leggings
+item.sapphire_boots.name=Sapphire Boots
+
+item.jade_sword.name=Jade Sword
+item.jade_pickaxe.name=Jade Pickaxe
+item.jade_axe.name=Jade Axe
+item.jade_shovel.name=Jade Shovel
+item.jade_hoe.name=Jade Hoe
+item.jade_helmet.name=Jade Helmet
+item.jade_chestplate.name=Jade Chestplate
+item.jade_leggings.name=Jade Leggings
+item.jade_boots.name=Jade Boots
+
+tile.ruby_ore.name=Ruby Ore
+tile.onyx_ore.name=Onyx Ore
+tile.topaz_ore.name=Topaz Ore
+tile.sapphire_ore.name=Sapphire Ore
+tile.jade_ore.name=Jade Ore
+
+tile.ruby_block.name=Ruby Block
+tile.onyx_block.name=Onyx Block
+tile.topaz_block.name=Topaz Block
+tile.sapphire_block.name=Sapphire Block
+tile.jade_block.name=Jade Block
+
+itemGroup.gems_tab=MK's Gems
