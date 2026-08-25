@@ -1,12 +1,12 @@
 [{
-	"modid": "${mod_id}",
-	"name": "${mod_name}",
-	"version": "${mod_version}",
+	"modid": "mksgemsmod",
+	"name": "MK's Gems Mod",
+	"version": "1.0.0",
 	"mcversion": "1.12.2",
-	"description": "${mod_description}",
-	"authorList": ["${mod_authors}"],
-	"credits": "${mod_credits}",
-	"url": "${mod_url}",
-	"updateJSON": "${mod_update_json}",
-	"logoFile": "${mod_logo_path}"
+	"description": "Minecraft 1.12.2. mod that adds new ores, tools, and crafting recipes.",
+	"authorList": ["MK"],
+	"credits": "",
+	"url": "",
+	"updateJSON": "",
+	"logoFile": ""
 }]
