@@ -8,9 +8,9 @@ Every gem comes with full world generation, crafting recipes, and both English a
 
 ## Tech stack
 
-- Language: Java
-- Platform: Minecraft Forge 1.12.2
-- Build: Gradle
+- **Language:** Java
+- **Platform:** Minecraft Forge 1.12.2
+- **Build:** Gradle
 
 ## Building from source
 ```sh
