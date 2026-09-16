@@ -1,10 +1,10 @@
 # Minecraft Gems Mod
 
-Minecraft 1.12.2 mod that adds new ores, tools, and crafting recipes.
+Minecraft 1.12.2 mod that adds new ores, tools and crafting recipes.
 
 ## Overview
 
-Every gem comes with full world generation, crafting recipes, and both English and Czech localization. Tools and armor are slightly stronger than diamond, and ores spawn in the Overworld between Y levels 5 and 30, at a rarity comparable to diamond, three veins per chunk, four blocks per vein.
+The mod adds several new gem types, each with its own ore, tools, armor and crafting recipes. Every gem comes with full world generation and both English and Czech localization. Tools and armor are slightly stronger than diamond. Ores spawn in the Overworld between Y levels 5 and 30, at a rarity comparable to diamond, three veins per chunk, four blocks per vein.
 
 ## Tech stack
 
@@ -34,4 +34,4 @@ The compiled `.jar` ends up in `build/libs/`.
 
 ## Credits
 
-Textures for gems, tools, and armor are based on assets from the [GemsPlusPlus](https://modrinth.com/mod/gemsplusplus) mod, licensed under [LGPL-3.0-only](https://www.gnu.org/licenses/lgpl-3.0.html).
+Textures for gems, tools and armor are based on assets from the [GemsPlusPlus](https://modrinth.com/mod/gemsplusplus) mod, licensed under [LGPL-3.0-only](https://www.gnu.org/licenses/lgpl-3.0.html).
