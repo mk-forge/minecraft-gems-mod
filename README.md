@@ -27,10 +27,10 @@ The compiled `.jar` ends up in `build/libs/`.
 
 ## Screenshots
 
-![Ore generation](./Screenshots/ore_generation.png)
-![Creative tab](./Screenshots/creative_tab.png)
-![Crafting](./Screenshots/crafting.png)
-![Armor and tools](./Screenshots/armor_and_tools.png)
+![Ore generation](https://raw.githubusercontent.com/mk-forge/minecraft-gems-mod/main/Screenshots/ore_generation.png)
+![Creative tab](https://raw.githubusercontent.com/mk-forge/minecraft-gems-mod/main/Screenshots/creative_tab.png)
+![Crafting](https://raw.githubusercontent.com/mk-forge/minecraft-gems-mod/main/Screenshots/crafting.png)
+![Armor and tools](https://raw.githubusercontent.com/mk-forge/minecraft-gems-mod/main/Screenshots/armor_and_tools.png)
 
 ## Credits
 
