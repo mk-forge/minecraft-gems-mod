@@ -1,5 +1,8 @@
 # Minecraft Gems Mod
 
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)
+
 Minecraft 1.12.2 mod that adds new ores, tools and crafting recipes.
 
 ## Overview
@@ -35,3 +38,7 @@ The compiled `.jar` ends up in `build/libs/`.
 ## Credits
 
 Textures for gems, tools and armor are based on assets from the [GemsPlusPlus](https://modrinth.com/mod/gemsplusplus) mod, licensed under [LGPL-3.0-only](https://www.gnu.org/licenses/lgpl-3.0.html).
+
+## License
+
+[MIT](LICENSE)
