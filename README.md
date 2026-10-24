@@ -1,6 +1,6 @@
 # Minecraft Gems Mod
 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0074BD?logo=openjdk&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)
 
 Minecraft 1.12.2 mod that adds new ores, tools and crafting recipes.
